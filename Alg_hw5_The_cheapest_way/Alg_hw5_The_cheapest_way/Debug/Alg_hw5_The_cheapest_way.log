@@ -1,0 +1,3 @@
+﻿  소스.c
+C:\Users\jiin2\OneDrive\바탕 화면\대학\3학년 2학기\알고리즘\과제\Alg_hw5_The_cheapest_way\Alg_hw5_The_cheapest_way\소스.c(87,6): warning C4101:  'index' :참조되지 않은 지역 변수입니다.
+  Alg_hw5_The_cheapest_way.vcxproj -> C:\Users\jiin2\OneDrive\바탕 화면\대학\3학년 2학기\알고리즘\과제\Alg_hw5_The_cheapest_way\Debug\Alg_hw5_The_cheapest_way.exe

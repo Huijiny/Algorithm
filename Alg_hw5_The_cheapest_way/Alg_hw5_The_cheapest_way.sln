@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Alg_hw5_The_cheapest_way", "Alg_hw5_The_cheapest_way\Alg_hw5_The_cheapest_way.vcxproj", "{82C590B8-1EE1-4705-BCCE-5CE73573A42A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82C590B8-1EE1-4705-BCCE-5CE73573A42A}.Debug|x64.ActiveCfg = Debug|x64
+		{82C590B8-1EE1-4705-BCCE-5CE73573A42A}.Debug|x64.Build.0 = Debug|x64
+		{82C590B8-1EE1-4705-BCCE-5CE73573A42A}.Debug|x86.ActiveCfg = Debug|Win32
+		{82C590B8-1EE1-4705-BCCE-5CE73573A42A}.Debug|x86.Build.0 = Debug|Win32
+		{82C590B8-1EE1-4705-BCCE-5CE73573A42A}.Release|x64.ActiveCfg = Release|x64
+		{82C590B8-1EE1-4705-BCCE-5CE73573A42A}.Release|x64.Build.0 = Release|x64
+		{82C590B8-1EE1-4705-BCCE-5CE73573A42A}.Release|x86.ActiveCfg = Release|Win32
+		{82C590B8-1EE1-4705-BCCE-5CE73573A42A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90F2B81E-84D6-48A5-BF83-3C6721EEF12C}
+	EndGlobalSection
+EndGlobal
