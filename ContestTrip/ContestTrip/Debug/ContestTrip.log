@@ -1,0 +1,8 @@
+﻿  소스.c
+C:\Users\jiin2\OneDrive\바탕 화면\대학\3학년 2학기\알고리즘\과제\ContestTrip\ContestTrip\소스.c(45,11): warning C4013:  'strcpy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\jiin2\OneDrive\바탕 화면\대학\3학년 2학기\알고리즘\과제\ContestTrip\ContestTrip\소스.c(97,7): warning C4013:  'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\jiin2\OneDrive\바탕 화면\대학\3학년 2학기\알고리즘\과제\ContestTrip\ContestTrip\소스.c(126,13): warning C4013:  'strcmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\jiin2\OneDrive\바탕 화면\대학\3학년 2학기\알고리즘\과제\ContestTrip\ContestTrip\소스.c(163,12): warning C4013:  'compare'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\jiin2\OneDrive\바탕 화면\대학\3학년 2학기\알고리즘\과제\ContestTrip\ContestTrip\소스.c(123,6): warning C4101:  'arrnum0fDesti' :참조되지 않은 지역 변수입니다.
+C:\Users\jiin2\OneDrive\바탕 화면\대학\3학년 2학기\알고리즘\과제\ContestTrip\ContestTrip\소스.c(191): warning C4716:  'compare': 값을 반환해야 합니다.
+  ContestTrip.vcxproj -> C:\Users\jiin2\OneDrive\바탕 화면\대학\3학년 2학기\알고리즘\과제\ContestTrip\Debug\ContestTrip.exe
