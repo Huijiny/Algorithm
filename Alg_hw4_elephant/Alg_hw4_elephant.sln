@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Alg_hw4_elephant", "Alg_hw4_elephant\Alg_hw4_elephant.vcxproj", "{7248B0AA-4B26-4D7D-8E3F-C4F3D91A5CBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7248B0AA-4B26-4D7D-8E3F-C4F3D91A5CBD}.Debug|x64.ActiveCfg = Debug|x64
+		{7248B0AA-4B26-4D7D-8E3F-C4F3D91A5CBD}.Debug|x64.Build.0 = Debug|x64
+		{7248B0AA-4B26-4D7D-8E3F-C4F3D91A5CBD}.Debug|x86.ActiveCfg = Debug|Win32
+		{7248B0AA-4B26-4D7D-8E3F-C4F3D91A5CBD}.Debug|x86.Build.0 = Debug|Win32
+		{7248B0AA-4B26-4D7D-8E3F-C4F3D91A5CBD}.Release|x64.ActiveCfg = Release|x64
+		{7248B0AA-4B26-4D7D-8E3F-C4F3D91A5CBD}.Release|x64.Build.0 = Release|x64
+		{7248B0AA-4B26-4D7D-8E3F-C4F3D91A5CBD}.Release|x86.ActiveCfg = Release|Win32
+		{7248B0AA-4B26-4D7D-8E3F-C4F3D91A5CBD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1B84766-1DF6-47AE-BACF-E02D09A3218F}
+	EndGlobalSection
+EndGlobal
